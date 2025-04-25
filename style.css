@@ -5,7 +5,7 @@ header h1 { margin: 0; font-size: 1.5rem;color: #f9f9f9; }
 nav a { color: #fff; margin-left: 1rem; text-decoration: none; font-weight: bold; }
 .hero {
     position: relative;
-    background: url('./IMG/camera.png') no-repeat center center/cover;
+    background: url('./camera.jpg') no-repeat center center/cover;
     height: 400px;
     display: flex;
     justify-content: center;
